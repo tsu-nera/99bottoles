@@ -1,4 +1,5 @@
 require 'rspec'
+require_relative '../lib/bottles'
 
 describe '#verse' do
   let(:bottle_99) do
